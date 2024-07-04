@@ -1,0 +1,29 @@
+#heading{
+    text-align: center;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#heading2{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.minus, .plus, .reset{
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin:1px; 
+}
+body{
+    text-align: center;
+}
+#changeby{
+    height: 2rem;;
+    width: 5rem;
+    font-size: 1rem;
+}
+#heading{
+    text-decoration: underline;
+}
